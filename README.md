@@ -6,12 +6,14 @@ Este repositorio contiene la aplicación de **especificación de requerimientos 
 
 ## 🌐 URLs de Acceso en Vivo (Vercel)
 
-* **Portal de Requerimientos y Prototipo PMV:**  
-  👉 **[https://ecommerce-requerimientos.vercel.app](https://ecommerce-requerimientos.vercel.app)** *(o el subdominio asignado por Vercel al conectar el repositorio)*
-* **Repositorio GitHub:**  
+* **Portal de Requerimientos y Prototipo PMV en Vivo:**  
+  👉 **[https://requerimientos-beige.vercel.app](https://requerimientos-beige.vercel.app)**
+* **Documentación Técnica & API Reference (Scalar en Vivo):**  
+  👉 **[https://docs-nu-three-75.vercel.app](https://docs-nu-three-75.vercel.app)**
+* **Repositorio GitHub - Requerimientos:**  
   👉 **[https://github.com/start-level-cl/ecommerce-requerimientos](https://github.com/start-level-cl/ecommerce-requerimientos)**
-* **Documentación Técnica & API Reference:**  
-  👉 **[https://ecommerce-docs-five.vercel.app](https://ecommerce-docs-five.vercel.app)**
+* **Repositorio GitHub - API Docs:**  
+  👉 **[https://github.com/start-level-cl/ecommerce-docs](https://github.com/start-level-cl/ecommerce-docs)**
 
 ---
 

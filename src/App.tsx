@@ -77,13 +77,13 @@ export function App() {
             </a>
 
             <a
-              href="http://localhost:4010/reference.html"
+              href="https://docs-nu-three-75.vercel.app"
               target="_blank"
               rel="noreferrer"
               className="btn-primary"
               style={{ fontSize: '0.82rem', padding: '0.45rem 0.8rem', textDecoration: 'none' }}
             >
-              <BookOpen size={14} /> API Docs Scalar (:4010) <ExternalLink size={12} />
+              <BookOpen size={14} /> API Docs Scalar <ExternalLink size={12} />
             </a>
           </div>
         </div>
