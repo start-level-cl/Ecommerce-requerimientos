@@ -10,10 +10,11 @@ Este repositorio contiene la aplicación de **especificación de requerimientos 
   👉 **[https://requerimientos-beige.vercel.app](https://requerimientos-beige.vercel.app)**
 * **Documentación Técnica & API Reference (Scalar en Vivo):**  
   👉 **[https://docs-nu-three-75.vercel.app](https://docs-nu-three-75.vercel.app)**
-* **Repositorio GitHub - Requerimientos:**  
-  👉 **[https://github.com/start-level-cl/ecommerce-requerimientos](https://github.com/start-level-cl/ecommerce-requerimientos)**
-* **Repositorio GitHub - API Docs:**  
-  👉 **[https://github.com/start-level-cl/ecommerce-docs](https://github.com/start-level-cl/ecommerce-docs)**
+* **Repositorios del Ecosistema en GitHub:**  
+  * Requerimientos: [start-level-cl/ecommerce-requerimientos](https://github.com/start-level-cl/ecommerce-requerimientos)
+  * API Docs: [start-level-cl/ecommerce-docs](https://github.com/start-level-cl/ecommerce-docs)
+  * Backend API: [start-level-cl/ecommerce-backend](https://github.com/start-level-cl/ecommerce-backend)
+  * Frontend Store: [start-level-cl/ecommerce-frontend](https://github.com/start-level-cl/ecommerce-frontend)
 
 ---
 
